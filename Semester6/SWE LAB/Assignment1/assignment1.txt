@@ -1,0 +1,11 @@
+Part I: 1 week 
+We know that a software lifecycle consists of many different phases like feasibility study, 
+requirement analysis, design, coding, testing and maintenance. Explore online sample 
+charts/tables/sheets used for formal documentation in each of these phases. 
+
+Part II: 1 week 
+Hence briefly describe your collected samples in form of a case studies (word limit for each 
+sample:100). Since you are guaranteed to come up with many pieces of text, figures, tables, 
+notations etc. in discrete form, you are advised to submit a single doc/pdf file for this entire 
+assignment. 
+In your descriptions don’t (url/book/journal/conference etc.) of the samples. forget to refer your sources
